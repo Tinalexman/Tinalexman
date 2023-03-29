@@ -4,14 +4,13 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I am a mobile app developer, I also like to create projects in Java or Dart.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @MrBlueBird2</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>🌱 I’m currently learning Game Development, Mobile App Development and Python for ML/AI.</li>
+  <li>💼 I'm a Mobile App developer at King David Elites.</li>
 </ul>
 
 #### A little more about me
@@ -61,10 +60,6 @@ final User me = User(
 
 #### Contribution Graph
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-<!---
-MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 #### I'm an Early 🐤
 ```text
@@ -77,16 +72,16 @@ You can click the Preview link to take a look at your changes.
 #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
-CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
+Dart                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+Java                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
 Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
 GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 
 🔥 Editors:
-VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
-Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
+IntelliJ                  4 Hours            ██████████████░░░░░░░░░░░   50% 
+Vs Code                     1 Hour             ██████████████░░░░░░░░░░░   50%
 
 💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
+Windows             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 ------
