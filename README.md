@@ -7,8 +7,8 @@
 <p>I am a mobile app developer, I also like to create projects in Java or Dart.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>👋 Hi, I’m @Tinalexman</li>
+  <li>❤️ I love creating mobile applications with Flutter and Dart</li>
   <li>🌱 I’m currently learning Game Development, Mobile App Development and Python for ML/AI.</li>
   <li>💼 I'm a Mobile App developer at King David Elites.</li>
 </ul>
